@@ -1,6 +1,6 @@
 # Description
 
-This project is a logic-based movie recommendation system built on symbolic AI principles using Prolog and Python
+This simple project is a logic-based movie recommendation system built on symbolic AI principles using Prolog and Python
 
 # How it works
 
